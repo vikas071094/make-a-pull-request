@@ -1,5 +1,5 @@
 # John Doe
 
-## 1st Year, CSE
+## 2nd Year, EEE
 
-## Java, JavaScript
+## Python, JavaScript
